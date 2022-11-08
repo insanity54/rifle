@@ -1,0 +1,13 @@
+{
+    "title": "rifle",
+    "tags": ["Weapons"],
+    "license": "Unlicense",
+    "media_license": "Unlicense",
+    "website": null,
+    "long_description": "Adds a semi-automatic AR-15 home defense rifle. \n\nThere are other gun mods out there, but they're so full of features I dont want. I just want one single rifle that is craftable in game, so that is what this mod does.",
+    "name": "rifle",
+    "dev_state": "WIP",
+    "repo": "https://github.com/insanity54/rifle",
+    "issue_tracker": "https://github.com/insanity54/rifle/issues",
+    "forums": null
+}
